@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://koneksje.pl/kajaki/index.html</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,10 +53,16 @@
     <image:image>
       <image:loc>http://koneksje.pl/kajaki/images/20220418_102541-crop-u8917.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://koneksje.pl/kajaki/images/image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://koneksje.pl/kajaki/images/20220705_152040-2345-.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://koneksje.pl/kajaki/trasy-stanica-policko.html</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
